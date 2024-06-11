@@ -106,6 +106,3 @@ Technologies used:
   - Greece, Turkey (Example for tourist regions): Drastic increase during summer months, very similar to one another.
   - Sweden, Austria (Smaller countries): Seem to have rather stable amount of passengers across the whole year, still increase in summer though
   - Norway/Sweden: Despite northern lights: No increase in flight passengers in winter (when northern lights are visible the most)
-
-### Screencast
-#### Stream it via Youtube [here](https://youtu.be/ybD3KAz3-NU?si=Naj36uZ3oWoxGOUf)
